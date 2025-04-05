@@ -1,1 +1,2 @@
 # belly-button-challenge
+This project visualizes bacterial cultures per sample using data from a microbiome study. It includes interactive charts such as a bubble chart and a bar chart, built with D3.js and Plotly.js. The app dynamically updates based on user-selected samples, displaying metadata and various bacterial data points. The goal is to provide insights into the diversity of bacterial cultures, making it easier to explore and analyze sample data visually.
